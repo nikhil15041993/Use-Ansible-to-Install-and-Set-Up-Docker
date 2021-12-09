@@ -1,4 +1,4 @@
-# Use-Ansible-to-Install-and-Set-Up-Docker
+# Use-Ansible-to-Install-and-Set-Up-Docker.
 
 ## Running this playbook will perform the following actions on your Ansible hosts
 
